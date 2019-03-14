@@ -8,9 +8,9 @@ yum install autoconf automake gcc-c++ git
 
 git clone https://github.com/31hz/cpp_example.git
 
-git checkout master
-
 cd cpp_example
+
+git checkout master
 
 autoreconf -i
 
