@@ -1,0 +1,13 @@
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build-aux/
+config.log
+config.status
+configure
+cpp_example
+src/.deps/
+src/.dirstamp
+src/*.o
+src/cpp_example.o
