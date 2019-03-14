@@ -13,3 +13,7 @@ void Truck::setMake(std::string make) {
 Truck::Truck() {
     std::cout << "Truck is being constructed\n";
 }
+
+Truck::~Truck() {
+    std::cout << "Truck is being destructed\n";
+}

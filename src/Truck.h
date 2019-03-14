@@ -16,5 +16,7 @@ class Truck {
     // constructor
     Truck();
 
+    // destructor
+    virtual ~Truck();
 };
 #endif
