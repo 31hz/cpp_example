@@ -1,6 +1,13 @@
-#include <stdio.h>
+#include <iostream>
+#include "Animal.h"
+#include "Egret.h"
+#include "Truck.h"
+#include "Dumptruck.h"
 
 int main() {
-  printf("Hello world\n");
-  return 0;
+    Animal oneAnimal;
+    Egret oneEgret;
+
+    Truck oneTruck;
+    Dumptruck oneDumptruck;
 }
