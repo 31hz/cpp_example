@@ -4,7 +4,7 @@ Example of cpp virtual destructor
 # Installation
 Target: Digital Ocean Centos 7.5 Droplet
 
-yum install autoconf automake gcc-c++ git
+yum install autoconf automake gcc-c++ git make
 
 git clone https://github.com/31hz/cpp_example.git
 
